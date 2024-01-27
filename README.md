@@ -1,4 +1,4 @@
-# GIT Repo /oim
+# GIT Repo
 
 This is a sample learning app for the GIT course
 
